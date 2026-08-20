@@ -198,20 +198,19 @@ The dashboard includes interactive features such as:
 ## 📸 Dashboard Preview
 
 ### Overview
+![Overview Dashboard](Screenshot/Overview.png)
 
-![PhonePe Overview Dashboard](images/overview.png)
+### Insurance
+![Insurance Dashboard](Screenshot/Insurance.png)
 
-### Insurance Analysis
+### Loans
+![Loans Dashboard](Screenshot/Loans.png)
 
-![Insurance Dashboard](images/insurance.png)
-
-### Money Transfer Analysis
-
-![Money Transfer Dashboard](images/money-transfer.png)
+### Money Transfer
+![Money Transfer Dashboard](Screenshot/Money_Transfer.png)
 
 ### Recharge & Bills
-
-![Recharge and Bills Dashboard](images/recharge-bills.png)
+![Recharge & Bills Dashboard](Screenshot/Recharge_Bills.png)
 
 ---
 
